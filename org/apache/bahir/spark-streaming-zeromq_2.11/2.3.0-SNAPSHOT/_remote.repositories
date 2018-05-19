@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat May 19 15:07:27 IRDT 2018
+spark-streaming-zeromq_2.11-2.3.0-SNAPSHOT-javadoc.jar>=
+spark-streaming-zeromq_2.11-2.3.0-SNAPSHOT.jar>=
+spark-streaming-zeromq_2.11-2.3.0-SNAPSHOT-test-sources.jar>=
+spark-streaming-zeromq_2.11-2.3.0-SNAPSHOT-tests.jar>=
+spark-streaming-zeromq_2.11-2.3.0-SNAPSHOT.pom>=
+spark-streaming-zeromq_2.11-2.3.0-SNAPSHOT-sources.jar>=

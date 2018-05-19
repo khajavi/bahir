@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.apache.bahir</groupId>
-  <artifactId>spark-streaming-twitter_2.11</artifactId>
+  <artifactId>spark-streaming-pubsub_2.11</artifactId>
   <versioning>
     <versions>
       <version>2.3.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180519103704</lastUpdated>
+    <lastUpdated>20180519103750</lastUpdated>
   </versioning>
 </metadata>

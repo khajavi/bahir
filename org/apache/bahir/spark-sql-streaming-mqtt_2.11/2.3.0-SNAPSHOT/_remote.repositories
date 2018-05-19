@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat May 19 15:06:39 IRDT 2018
+spark-sql-streaming-mqtt_2.11-2.3.0-SNAPSHOT.jar>=
+spark-sql-streaming-mqtt_2.11-2.3.0-SNAPSHOT-sources.jar>=
+spark-sql-streaming-mqtt_2.11-2.3.0-SNAPSHOT.pom>=
+spark-sql-streaming-mqtt_2.11-2.3.0-SNAPSHOT-javadoc.jar>=
+spark-sql-streaming-mqtt_2.11-2.3.0-SNAPSHOT-test-sources.jar>=
+spark-sql-streaming-mqtt_2.11-2.3.0-SNAPSHOT-tests.jar>=

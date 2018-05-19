@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat May 19 15:07:50 IRDT 2018
+spark-streaming-pubsub_2.11-2.3.0-SNAPSHOT-sources.jar>=
+spark-streaming-pubsub_2.11-2.3.0-SNAPSHOT.pom>=
+spark-streaming-pubsub_2.11-2.3.0-SNAPSHOT-tests.jar>=
+spark-streaming-pubsub_2.11-2.3.0-SNAPSHOT-javadoc.jar>=
+spark-streaming-pubsub_2.11-2.3.0-SNAPSHOT.jar>=
+spark-streaming-pubsub_2.11-2.3.0-SNAPSHOT-test-sources.jar>=
